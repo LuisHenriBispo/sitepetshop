@@ -1,0 +1,8 @@
+html, body, div, a, img, ul, p,
+article, aside, footer, header, h1,
+menu, nav, section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}

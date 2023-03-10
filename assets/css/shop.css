@@ -1,0 +1,72 @@
+#menu {
+    width: 100%;
+    text-align: center;
+    background-color: #8d4510;
+    display:block;
+    
+}
+
+#menu ul li {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px 20px;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+#menu ul li a:hover {
+    color: white;
+    background-color: #2c2618;
+    border-radius: 50px;
+}
+
+h1 {
+    text-align: center;
+    padding: 60px;
+}
+
+h2 {
+    text-align: center;
+    padding: 60px;
+    background-color: #8d4510;
+    padding: 20px;
+    color: #FFF;
+}
+
+.imgProduto{
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+    border: 2px #8d4510 dashed;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.textocentro{
+    text-align: center;
+}
+
+#footer{
+    background-color: #8d4510;
+    color: #FFF;
+    padding-top: 20px;
+    text-align: center;
+    height: 48px;
+}
+
+.table{
+    margin: 20px auto;
+}
+
+table, th, td {
+    border: 1px solid #8d4510;
+    border-collapse: collapse;
+}
+
+
+
